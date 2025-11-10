@@ -2,7 +2,7 @@
 layout: blank.njk
 ---
 
-# everything i have consumed and gotten something from, starting in late october 2025
+# everything i have consumed and gotten something from, somewhat exclusive from my other lists, starting in late october 2025
 
 ### November 2025
 

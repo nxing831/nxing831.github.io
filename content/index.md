@@ -2,7 +2,7 @@
 layout: blank.njk
 ---
 
-# index
+# home
 
 my name is nicole and i am a math student at yale university. 
 
@@ -24,7 +24,7 @@ hobbies: rock climbing, fishing, web surfing, actual surfing, collecting vinyl, 
 
 academic:
 
-[paltry qualifications](/math)
+[a bit on math](/math)
 
 [future: hrmmmmmmm]
 
@@ -42,8 +42,9 @@ personal:
 
 [list of video](/video)
 
-[my photos]
-
-[climbing log (+ sets)]
+[climbing log](/climbs)
 
 [pins](/pins)
+
+[future: photos]
+

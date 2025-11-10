@@ -2,6 +2,8 @@
 layout: pins.njk
 ---
 
+# a selective curation of my screenshots
+
 ![](/pins/stochastic.png)
 
 ![](/pins/mild.png)
@@ -30,13 +32,9 @@ layout: pins.njk
 
 ![](/pins/rickrubin.png)
 
-![](/pins/springer.jpg)
-
 ![](/pins/text.png)
 
 ![](/pins/yes.png)
-
-![](/pins/youarehere.png)
 
 ![](/pins/youtubers.png)
 

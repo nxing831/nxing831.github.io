@@ -31,6 +31,7 @@ notable books i enjoyed have a ♡ symbol next to their titles. books i strongly
 | :-: | :-: | :-: | 
 | may 2025 | the girl with curious hair | david foster wallace |
 | oct 2025 | the sportswriter | richard ford | 
+| nov 2025 | the alignment problem | brian christian |
 
 
 

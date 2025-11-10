@@ -2,7 +2,7 @@
 layout: blank.njk
 ---
 
-# music that occurred to me or was listened to that day, in reverse chronological order since november 2025
+# music that occurred to me or was listened to that day, selectively listed in reverse chronological order since november 2025
 
 for a list of physical music i own, go [here](/analogmusic)
 
