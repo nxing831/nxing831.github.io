@@ -12,9 +12,7 @@ i started my internet journey making html layouts for an online horse game befor
 
 ---
 
-pronouns: she / her
-
-likes: crunchy strawberry pocky, the ten minutes before falling asleep, outdoor beach shower, acquiring backlogs of things
+likes: outdoor beach shower, oldweb disaster websites, acquiring backlogs of things
 
 dislikes: socks, overly developed senses of self, and other types of enclosures
 
@@ -26,7 +24,9 @@ academic:
 
 [a bit on math](/math)
 
-[future: hrmmmmmmm]
+[future: technicole notes and math blog]
+
+[future: beautiful math...]
 
 ---
 

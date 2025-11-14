@@ -31,15 +31,15 @@ notable books i enjoyed have a ♡ symbol next to their titles. books i strongly
 | :-: | :-: | :-: | 
 | may 2025 | the girl with curious hair | david foster wallace |
 | oct 2025 | the sportswriter | richard ford | 
-| nov 2025 | the alignment problem | brian christian |
-
+| nov 2025 | one hundred years of solitude | gabriel garcía mârquez | 
 
 
 ### 2025
-so far, i've read 11 books.
+so far, i've read 12 books.
 
 | finished | title | author |
 | :-: | :-: | :-: |
+| nov 2025 | the alignment problem | brian christian |
 | sep 2025 | the kite runner | khaled hosseini |
 | april 2025 | infinite jest ♡ | david foster wallace |
 | june 2025 | the glass castle | jeanette walls |

@@ -6,7 +6,11 @@ layout: blank.njk
 
 ### November 2025
 
-Frederick Wiseman, *Aspen*
+Diane Arbus
+
+Ingmar Berman, *Persona* on 35mm
+
+Frederick Wiseman, *Aspen* on 16mm
 
 Lacan, *The Mirror Stage as Formative of the I Function*
 
@@ -14,7 +18,7 @@ John Szarkowski, *Mirrors and Windows: American Photography Since 1960*
 
 Robert (Bud) Glick, *New York Chinatown*
 
-Robert Bresson, *Quatre Nuits D'un Reveur*
+Robert Bresson, *Quatre Nuits D'un Reveur* on 35mm
 
 Gilles Peress, *Telex Iran*
 

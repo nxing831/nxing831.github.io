@@ -6,7 +6,7 @@ layout: blank.njk
 
 i did my undergraduate degree in mathematics. i am kind of writing a thesis.
 
-previously, i did research in other places. 
+previously, i did research in a variety of buildings in other places.
 
 i am taking a 2026 gap and intend to apply to phd programs in statistics and computer science after. roughly speaking, i am interested in ai security; this involves privacy, secure computing, adversarial machine learning, and alignment. 
 

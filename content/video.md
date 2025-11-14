@@ -4,6 +4,8 @@ layout: blank.njk
 
 # video, mostly youtube
 
+lancifer visual's tribute to Andy Irons, ["AI Forever"](https://www.youtube.com/watch?v=BAt8GHrwVTU&list=RDBAt8GHrwVTU)
+
 CI Surfboards, Mikey February: [Mikey February -- 6'10 CI Mid](https://www.youtube.com/watch?v=cOHc2TSvCI8&list=RDcOHc2TSvCI8)
 
 [Billy Strings, "Shady Grove" at Essex Junction](https://www.youtube.com/watch?v=1hobeDDZsd0&list=RD1hobeDDZsd0)
@@ -14,7 +16,6 @@ Radiohead & BBC Music, ["Paranoid Android (Later Archive 2007)"](https://www.you
 
 Radiohead & From the Basement, ["In Rainbows | Radiohead"](https://www.youtube.com/watch?v=sWqDIZxO-nU&list=RDsWqDIZxO-nU)
 
-lancifer visual's tribute to Andy Irons, ["AI Forever"](https://www.youtube.com/watch?v=BAt8GHrwVTU&list=RDBAt8GHrwVTU)
 
 [RHCP Live at Slane Castle](https://www.youtube.com/watch?v=FmrGz8qSyrk&list=RDFmrGz8qSyrk)
 
@@ -27,8 +28,6 @@ lancifer visual's tribute to Andy Irons, ["AI Forever"](https://www.youtube.com/
 Talking Heads, *Stop Making Sense*
 
 Talking Heads, ["Cities" Outtake](https://www.youtube.com/watch?v=jJMxwBmQWHA&list=RDjJMxwBmQWHA)
-
-
 
 ---
 
