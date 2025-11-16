@@ -10,6 +10,8 @@ for a list of physical music i own, go [here](/analogmusic)
 
 ### November 2025
 
+Black Midi, "Welcome to Hell"
+
 Todd Snider, "The Ballad of the Kingsmen"
 
 Toots & The Maytals, "Pressure Drop"

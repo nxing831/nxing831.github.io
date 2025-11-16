@@ -29,6 +29,12 @@ Talking Heads, *Stop Making Sense*
 
 Talking Heads, ["Cities" Outtake](https://www.youtube.com/watch?v=jJMxwBmQWHA&list=RDjJMxwBmQWHA)
 
+["My Wife Knows Everything versus My Wife Knows Nothing"](https://www.youtube.com/watch?v=e3GKiRp333w)
+
+[LCD Soundsystem, "New York I Love You, But You're Bringing Me Down" and Miles Davis](https://www.youtube.com/watch?v=huEtJw7pfLk&t=1s)
+
+[Pharoah Sanders, "Kazuko" in an abandoned tunnel](https://www.youtube.com/watch?v=Y7EGQzn8e1k&list=RDY7EGQzn8e1k&start_radio=1)
+
 ---
 
 [return home](/index)

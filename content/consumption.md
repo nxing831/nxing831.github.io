@@ -6,7 +6,13 @@ layout: blank.njk
 
 ### November 2025
 
-Diane Arbus
+Brian Christian, *The Alignment Problem*
+
+David Campany Interviews Stephen Shore, *Ways of Making Pictures*
+
+Orson Welles, *Touch of Evil* on 35mm (Restored Version)
+
+Some Diane Arbus photos
 
 Ingmar Berman, *Persona* on 35mm
 
@@ -30,15 +36,11 @@ Andy Irons & the Radicals
 
 Christopher Bickford, *Legends of the Sandbar*
 
-Luigi Ghirri
-
-Jeff Wall
-
-Michelangelo Antonioni
+My first introduction to Jeff Wall and Luigi Ghirri
 
 Stephen Shore, *Modern Instances*
 
-Brett Weston
+Brett Weston sand dune photos
 
 
 ### October 2025
