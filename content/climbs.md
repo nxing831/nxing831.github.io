@@ -16,7 +16,11 @@ started climbing in summer 2023, tore my tfcc spring 2025, off for rehab and mos
 
 ## nov 2025
 
+### climbing
+
 continuing to fight shoulder pain and wrist instability (tore tfcc in march 2025). off climbing and only doing yoga this month.
+
+### setting
 
 **"prematurely air conditioned supermarket" v3+:** both hands undercling start, right foot up, right hand up to crimp on right side chimney, high left foot above start hold, kneebar into the chimney, stem upwards with left hand, right hand cross over, left hand out, match, lh out, straightforward around the corner to finish. pretty fun climb and proud of how it turned out, despite half the boltholes being stripped (again), coming in without a plan, and generally being awful at setting in this section of the gym
 
@@ -28,9 +32,11 @@ continuing to fight shoulder pain and wrist instability (tore tfcc in march 2025
 
 ## oct 2025
 
+### climbing
+
 tore my rotator cuff, off most of this month
 
-### sets
+### setting
 
 **"46 inch citation drum" v2/3:** start both hands pinching a sidepull, right hand cross, left hand out. heel on start pinch, right hand bump, left up, right cross vertical. undercling ending. this was fun to set and i think has a good variety of movement for beginners. 
 

@@ -6,6 +6,10 @@ layout: blank.njk
 
 ### November 2025
 
+ICP, *Hiroshima: Ground Zero 1945*
+
+Masahisa Fukase, *Ravens*
+
 Brian Christian, *The Alignment Problem*
 
 David Campany Interviews Stephen Shore, *Ways of Making Pictures*

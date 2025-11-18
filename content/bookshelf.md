@@ -31,14 +31,16 @@ notable books i enjoyed have a ♡ symbol next to their titles. books i strongly
 | :-: | :-: | :-: | 
 | may 2025 | the girl with curious hair | david foster wallace |
 | oct 2025 | the sportswriter | richard ford | 
-| nov 2025 | one hundred years of solitude | gabriel garcía mârquez | 
+| nov 2025 | antkind | charlie kaufman |
+
 
 
 ### 2025
-so far, i've read 12 books.
+so far, i've read 13 books.
 
 | finished | title | author |
 | :-: | :-: | :-: |
+| nov 2025 | one hundred years of solitude | gabriel garcía mârquez | 
 | nov 2025 | the alignment problem | brian christian |
 | sep 2025 | the kite runner | khaled hosseini |
 | april 2025 | infinite jest ♡ | david foster wallace |
@@ -83,7 +85,8 @@ in 2024, i read 23 books.
 | jan 2024 | trick mirror: reflections on self-delusion | jia tolentino |
 
 ### books i read before i tracked them
-like everything else, this is roughly in reverse chronological order.
+
+somewhat unordered and occasionally me remembering a reading assignment from middle school
 
 | finished | title | author |
 | :-: | :-: | :-: |
