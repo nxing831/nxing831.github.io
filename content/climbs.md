@@ -20,6 +20,8 @@ started climbing in summer 2023, tore my tfcc spring 2025, off for rehab and mos
 
 continuing to fight shoulder pain and wrist instability (tore tfcc in march 2025). off climbing and only doing yoga this month.
 
+pretty much never did yoga until this month but loving it + having lots of fun doing inversions. learned to do crow and side crow in like a week, which i'm proud of! obv have much to work on but can feel the benefits already. shoulder is super messed up though, can't do one-handed stuff with right arm usually. 
+
 ### setting
 
 **"prematurely air conditioned supermarket" v3+:** both hands undercling start, right foot up, right hand up to crimp on right side chimney, high left foot above start hold, kneebar into the chimney, stem upwards with left hand, right hand cross over, left hand out, match, lh out, straightforward around the corner to finish. pretty fun climb and proud of how it turned out, despite half the boltholes being stripped (again), coming in without a plan, and generally being awful at setting in this section of the gym

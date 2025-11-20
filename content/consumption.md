@@ -2,9 +2,13 @@
 layout: blank.njk
 ---
 
-# everything i have consumed and gotten something from, somewhat exclusive from my other lists, starting in late october 2025
+# tracking things i consumed and got something from, somewhat exclusive from my other lists, starting in late october 2025
 
 ### November 2025
+
+Wim Wenders, *Beautiful Days*
+
+Satyajit Ray, *Nayak*
 
 ICP, *Hiroshima: Ground Zero 1945*
 
@@ -15,8 +19,6 @@ Brian Christian, *The Alignment Problem*
 David Campany Interviews Stephen Shore, *Ways of Making Pictures*
 
 Orson Welles, *Touch of Evil* on 35mm (Restored Version)
-
-Some Diane Arbus photos
 
 Ingmar Berman, *Persona* on 35mm
 
@@ -34,18 +36,11 @@ Gilles Peress, *Telex Iran*
 
 Patrick Faigenbaum, *Kolkata Calcutta*
 
-Gaylor Oscar Herron
-
-Andy Irons & the Radicals
+*Andy Irons & the Radicals*
 
 Christopher Bickford, *Legends of the Sandbar*
 
-My first introduction to Jeff Wall and Luigi Ghirri
-
 Stephen Shore, *Modern Instances*
-
-Brett Weston sand dune photos
-
 
 ### October 2025
 

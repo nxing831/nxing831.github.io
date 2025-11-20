@@ -10,6 +10,10 @@ for a list of physical music i own, go [here](/analogmusic)
 
 ### November 2025
 
+Brad Mehldau covers Elliot Smith's ["Between the Bars"](https://www.youtube.com/watch?v=Nw9jufomk9g)
+
+Shye Ben Tzur, Jonny Greenwood, Rajasthan Express, *Junun*
+
 Black Midi, "Welcome to Hell"
 
 Todd Snider, "The Ballad of the Kingsmen"

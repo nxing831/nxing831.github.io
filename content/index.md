@@ -6,7 +6,7 @@ layout: blank.njk
 
 my name is nicole and i am a math student at yale university. 
 
-i am interested in statistical and deep learning, especially bayesian learning; ai safety, e.g. privacy, security, policy, alignment; and random processes. 
+i am interested in adversarial machine learning, privacy, and security. i also enjoy bayesian and probabilistic machine learning.
 
 i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very beige github page and microblogged unsuccessfully before building a fish-themed website that revealed too much about me. after being too embarrassed to ever share it, i abandoned css and arrived here. 
 
@@ -16,7 +16,7 @@ likes: outdoor beach shower, oldweb disaster websites, acquiring backlogs of thi
 
 dislikes: socks, overly developed senses of self, and other types of enclosures
 
-hobbies: rock climbing, fishing, web surfing, actual surfing, collecting vinyl, film photography, painting, bass guitar
+doing, on occasion: rock climbing, fishing, web surfing, actual surfing, undeveloped art practice, bass guitar, volunteering
 
 ---
 
