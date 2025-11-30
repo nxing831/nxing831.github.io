@@ -10,6 +10,22 @@ for a list of physical music i own, go [here](/analogmusic)
 
 ### November 2025
 
+The Tuss, [*Rushup Edge*](https://www.youtube.com/watch?v=R-5koLtMy98*)
+
+Aphex Twin, "Orban Eq Trx 4"
+
+Elliot Smith, "A Fond Farewell"
+
+Marku Ribas, "Musseke"
+
+Black Country, New Road, "Science Fair"
+
+Nirvana, "Pennyroyal Tea"
+
+Talking Heads, "Cities," cut from *Stop Making Sense*
+
+ScubaZ, "The Vanishing American Family"
+
 Brad Mehldau covers Elliot Smith's ["Between the Bars"](https://www.youtube.com/watch?v=Nw9jufomk9g)
 
 Shye Ben Tzur, Jonny Greenwood, Rajasthan Express, *Junun*

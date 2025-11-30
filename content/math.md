@@ -4,7 +4,7 @@ layout: blank.njk
 
 # academics, about, a bit
 
-i did my undergraduate degree in mathematics. i am kind of writing a thesis.
+i am finishing my undergraduate degree in mathematics. currently, i am beginning my thesis in error correcting codes.
 
 previously, i did research in a variety of buildings in other places.
 

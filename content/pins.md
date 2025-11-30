@@ -2,7 +2,7 @@
 layout: pins.njk
 ---
 
-# a selective curation of my screenshots
+# a selective curation of my textual screenshots
 
 ![](/pins/stochastic.png)
 

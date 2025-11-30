@@ -2,9 +2,17 @@
 layout: blank.njk
 ---
 
-# tracking things i consumed and got something from, somewhat exclusive from my other lists, starting in late october 2025
+# remembering things i consumed and got something from, somewhat exclusive from my other lists, starting in late october 2025
 
 ### November 2025
+
+"Listers: A Glimpse Into Extreme Birdwatching" [(Youtube Documentary)](https://youtu.be/zl-wAqplQAo?si=h-6gt5oerfjyzvV9)
+
+Jacques Tati, *Monsieur Hulot's Holiday*
+
+Roxane Gay, *Bad Feminist*
+
+Robert Bresson, *L'Argent*
 
 Wim Wenders, *Beautiful Days*
 

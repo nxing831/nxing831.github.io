@@ -16,6 +16,8 @@ David Foster Wallace, "Getting Away from Already Being Pretty Much Away from It 
 
 Other Wallace essays from *A Supposedly Fun Thing I'll Never Do Again*
 
+Rich Sutton, ["The Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
 
 ### comedy
 

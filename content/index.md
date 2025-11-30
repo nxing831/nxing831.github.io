@@ -12,25 +12,25 @@ i started my internet journey making html layouts for an online horse game befor
 
 ---
 
-likes: outdoor beach shower, oldweb disaster websites, acquiring backlogs of things
+**likes**: outdoor beach shower, oldweb disaster websites, acquiring backlogs of things
 
-dislikes: socks, overly developed senses of self, and other types of enclosures
+**dislikes**: socks, overly developed senses of self, and other types of enclosures
 
-doing, on occasion: rock climbing, fishing, web surfing, actual surfing, undeveloped art practice, bass guitar, volunteering
+**doing, on occasion**: rock climbing, fishing, web surfing, actual surfing, undeveloped art practice, bass guitar, volunteering
 
 ---
 
-academic:
+**academic**:
 
 [a bit on math](/math)
 
-[future: technicole notes and math blog]
+[notes](/technical_notes)
 
-[future: beautiful math...]
+[blog](/blog)
 
 ---
 
-personal:
+**personal**:
 
 [consumption diary](/consumption)
 
@@ -46,5 +46,5 @@ personal:
 
 [pins](/pins)
 
-[future: photos]
+<!--  [future: photos] -->
 

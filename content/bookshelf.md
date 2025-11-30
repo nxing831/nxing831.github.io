@@ -29,19 +29,30 @@ notable books i enjoyed have a ♡ symbol next to their titles. books i strongly
 
 | started | title | author |
 | :-: | :-: | :-: | 
-| may 2025 | the girl with curious hair | david foster wallace |
-| oct 2025 | the sportswriter | richard ford | 
+| oct 2025 (paused) | the sportswriter | richard ford | 
 | nov 2025 | antkind | charlie kaufman |
+| nov 2025 | extrastatecraft | keller easterling |
 
+### want to read
+john williams, *stoner*
+david szalay, *flesh*
+thoreau, *walden*
+jeffrey eugenides, *middlesex*
+terry tempest williams, *refuge*
+julian stallabrass, [*internet culture*](/https://archive.org/details/internetartonlin0000stal/page/n3/mode/2up)
+boris groys, [*in the flow*](/https://citylights.com/art/in-the-flow/)
+dfw, *the girl with curious hair*
 
 
 ### 2025
-so far, i've read 13 books.
+so far, i've read 15 books.
 
 | finished | title | author |
 | :-: | :-: | :-: |
+| nov 2025 | bad feminist | roxane gay |
 | nov 2025 | one hundred years of solitude | gabriel garcía mârquez | 
 | nov 2025 | the alignment problem | brian christian |
+| oct 2025 | the battle for north carolina's coast: evolutionary history, present crisis, and vision for the future | stanley riggs |
 | sep 2025 | the kite runner | khaled hosseini |
 | april 2025 | infinite jest ♡ | david foster wallace |
 | june 2025 | the glass castle | jeanette walls |
