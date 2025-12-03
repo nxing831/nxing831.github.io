@@ -14,6 +14,3 @@ i also enjoy statistical learning theory, deep learning, etc. recently i have go
 
 <img src='/pins/springer.jpg' height='400px'>
 
----
-
-[return home](/index)

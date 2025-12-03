@@ -11,28 +11,34 @@
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
 
-    <link href="/css/pins.css" rel="stylesheet" />
+    <link href="/css/blank.css" rel="stylesheet" />
+    <style>
+      table,td,th {
+          border: 1px dotted black;
+          border-collapse: collapse;
+          padding: 15px;
+      }
+
+      td:nth-child(even), th:nth-child(even) {
+        width: 300px;
+      }
+      td:nth-child(odd), th:nth-child(odd) {
+        width: 200px;
+
+      .container {
+        max-width: 800px;
+        margin:auto;
+      }
+      }
+    </style>
     
   </head>
   <body>
     
   <section>
+  <div class="container">
 
-  <style>
-table,td,th {
-    border: 1px dotted black;
-    border-collapse: collapse;
-    padding: 15px;
-}
-
-td:nth-child(even), th:nth-child(even) {
-  width: 300px;
-}
-td:nth-child(odd), th:nth-child(odd) {
-  width: 200px;
-}
-</style>
-<h1 id="bookshelf" tabindex="-1">bookshelf</h1>
+  <h1 id="bookshelf" tabindex="-1">bookshelf</h1>
 <p>for writing in non-book form (e.g., essay) go <a href="/writing">here</a></p>
 <p>i starting tracking books when i made a goodreads account in late 2023, but didn’t use it all that much. everything pre-2024 is an estimation.</p>
 <p>notable books i enjoyed have a ♡ symbol next to their titles. books i strongly disliked have a ◞‸◟. textbooks are not listed.</p>
@@ -591,10 +597,12 @@ dfw, <em>the girl with curious hair</em></p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p><a href="/index">return home</a></p>
 
 
+  <hr>
+    <a href="/index">return home</a>
+    
+  </div>
     </section>
 
   </body>

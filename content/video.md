@@ -35,6 +35,3 @@ Talking Heads, ["Cities" Outtake](https://www.youtube.com/watch?v=jJMxwBmQWHA&li
 
 [Pharoah Sanders, "Kazuko" in an abandoned tunnel](https://www.youtube.com/watch?v=Y7EGQzn8e1k&list=RDY7EGQzn8e1k&start_radio=1)
 
----
-
-[return home](/index)

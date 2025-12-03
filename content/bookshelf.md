@@ -1,21 +1,6 @@
 ---
 layout: bookshelf.njk
 ---
-<style>
-table,td,th {
-    border: 1px dotted black;
-    border-collapse: collapse;
-    padding: 15px;
-}
-
-td:nth-child(even), th:nth-child(even) {
-  width: 300px;
-}
-td:nth-child(odd), th:nth-child(odd) {
-  width: 200px;
-}
-</style>
-
 # bookshelf
 
 for writing in non-book form (e.g., essay) go [here](/writing)
@@ -160,6 +145,3 @@ somewhat unordered and occasionally me remembering a reading assignment from mid
 || animal farm | george orwell |
 || 1984 | george orwell |
 
----
-
-[return home](/index)

@@ -11,15 +11,39 @@
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
 
-    <link href="/css/pins.css" rel="stylesheet" />
+    <link href="/css/blank.css" rel="stylesheet" />
+    <style>
+      table,td,th {
+          border: 1px dotted black;
+          border-collapse: collapse;
+          padding: 15px;
+      }
+
+      td:nth-child(even), th:nth-child(even) {
+        width: 300px;
+      }
+      td:nth-child(odd), th:nth-child(odd) {
+        width: 200px;
+
+      .container {
+        max-width: 800px;
+        margin:auto;
+      }
+      }
+    </style>
     
   </head>
   <body>
     
   <section>
+  <div class="container">
 
   {{ content | safe}}
 
+  <hr>
+    <a href="/index">return home</a>
+    
+  </div>
     </section>
 
   </body>

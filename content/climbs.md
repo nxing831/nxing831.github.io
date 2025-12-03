@@ -52,5 +52,3 @@ tore my rotator cuff, off most of this month
 
 ![wall](/climbing/sets/fall25/wall.jpg)
 
----
-[return home](/index)

@@ -113,7 +113,3 @@ Vulfpeck: *The Joy of Music, The Job of Real Estate*
 
 
 ## cds
-
----
-
-[return home](/index)

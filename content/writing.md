@@ -32,7 +32,3 @@ Simon Rich, ["Mario, Not So Super at 40"](https://www.newyorker.com/magazine/202
 Rebecca Turkewitz, ["Other Things That Could Be Called The Tortured Poets Department"](https://www.mcsweeneys.net/articles/other-things-that-could-be-called-the-tortured-poets-department)
 
 Andrew Patrick Clark, ["We Are Not a 'School'--We Are a Hospital System With a Football Team](https://www.mcsweeneys.net/articles/we-are-not-a-school-we-are-a-hospital-system-with-a-football-team)
-
----
-
-[return home](/index)

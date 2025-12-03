@@ -4,6 +4,10 @@ layout: blank.njk
 
 # remembering things i consumed and got something from, somewhat exclusive from my other lists, starting in late october 2025
 
+### December 2025
+
+Wim Wenders, *Pina* (in 3D!)
+
 ### November 2025
 
 "Listers: A Glimpse Into Extreme Birdwatching" [(Youtube Documentary)](https://youtu.be/zl-wAqplQAo?si=h-6gt5oerfjyzvV9)
@@ -60,6 +64,3 @@ Peter Fraser, *Mathematics*
 
 An-My Lê, *Events Ashore*
 
----
-
-[return home](/index)

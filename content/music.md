@@ -8,6 +8,12 @@ for a list of physical music i own, go [here](/analogmusic)
 
 ---
 
+### December 2025
+
+Jun Miyake, "Lillies of the Valley"
+
+Billy Cobham, *Spectrum*
+
 ### November 2025
 
 The Tuss, [*Rushup Edge*](https://www.youtube.com/watch?v=R-5koLtMy98*)
@@ -48,6 +54,3 @@ Phillip Glass: "Act III, Trial, Prison, Prematurely Air Conditioned Supermarket"
 
 LCD Soundsystem: "New York, I Love You but You're Bringing Me Down"
 
----
-
-[return home](/index)
