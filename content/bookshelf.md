@@ -39,7 +39,7 @@ so far, i've read 15 books.
 | nov 2025 | the alignment problem | brian christian |
 | oct 2025 | the battle for north carolina's coast: evolutionary history, present crisis, and vision for the future | stanley riggs |
 | sep 2025 | the kite runner | khaled hosseini |
-| april 2025 | infinite jest ♡ | david foster wallace |
+| aug 2025 | infinite jest ♡ | david foster wallace |
 | june 2025 | the glass castle | jeanette walls |
 | march 2025 | tenth of december | george saunders | 
 | feb 2025 | the third life of grange copeland | alice walker |

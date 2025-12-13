@@ -10,6 +10,28 @@ for a list of physical music i own, go [here](/analogmusic)
 
 ### December 2025
 
+Lynyrd Skynyrd, "I Need You"
+
+Shakti, "Shrini's Dream"
+
+Javier Limón, Anoushka Shankar, "Si No Puedo Verla"
+
+Tyshawn Sorey, Aaron Diehl, Harish Raghavan at Firehouse12 (live concert)
+
+Billy Strings, "My Alice"
+
+Beck, "Loser"
+
+Mos Def, "Mathematics"
+
+Ravi Shankar, "Prabhujee"
+
+Krishna Das, "Om Namah Shivaya"
+
+John Brown's Body, "High Grade"
+
+Superheaven, "Sponge"
+
 Jun Miyake, "Lillies of the Valley"
 
 Billy Cobham, *Spectrum*

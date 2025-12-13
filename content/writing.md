@@ -18,6 +18,14 @@ Other Wallace essays from *A Supposedly Fun Thing I'll Never Do Again*
 
 Rich Sutton, ["The Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
+### interview
+
+Ross Simonini interviews Pat Metheny, [*The Believer* (2022)](https://www.thebeliever.net/an-interview-with-pat-metheny/)
+
+[Jeff Wall interviewed by David Campany (2018)](https://davidcampany.com/jeff-wall-conversation-david-campany/)
+
+Roberta Smith with Irving Sandler, [*Brooklyn Rail* (2009)](https://brooklynrail.org/2009/04/art/in-conversation-roberta-smith-with-irving-sandler/)
+
 
 ### comedy
 
@@ -31,4 +39,4 @@ Simon Rich, ["Mario, Not So Super at 40"](https://www.newyorker.com/magazine/202
 
 Rebecca Turkewitz, ["Other Things That Could Be Called The Tortured Poets Department"](https://www.mcsweeneys.net/articles/other-things-that-could-be-called-the-tortured-poets-department)
 
-Andrew Patrick Clark, ["We Are Not a 'School'--We Are a Hospital System With a Football Team](https://www.mcsweeneys.net/articles/we-are-not-a-school-we-are-a-hospital-system-with-a-football-team)
+Andrew Patrick Clark, ["We Are Not a 'School'--We Are a Hospital System With a Football Team"](https://www.mcsweeneys.net/articles/we-are-not-a-school-we-are-a-hospital-system-with-a-football-team)

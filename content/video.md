@@ -2,7 +2,9 @@
 layout: blank.njk
 ---
 
-# video, mostly youtube
+# notable video, mostly youtube
+
+Bela Fleck, Edgar Meyer, Zakir Hussain on [NPR Tiny Desk](https://www.youtube.com/watch?v=X7Z0QEVfR8c&list=RDCx8AaSvH4EQ)
 
 lancifer visual's tribute to Andy Irons, ["AI Forever"](https://www.youtube.com/watch?v=BAt8GHrwVTU&list=RDBAt8GHrwVTU)
 
@@ -16,12 +18,11 @@ Radiohead & BBC Music, ["Paranoid Android (Later Archive 2007)"](https://www.you
 
 Radiohead & From the Basement, ["In Rainbows | Radiohead"](https://www.youtube.com/watch?v=sWqDIZxO-nU&list=RDsWqDIZxO-nU)
 
-
 [RHCP Live at Slane Castle](https://www.youtube.com/watch?v=FmrGz8qSyrk&list=RDFmrGz8qSyrk)
 
 [Ari Hoenig Quintet on "Billie's Bounce" at Smalls](https://www.youtube.com/watch?v=WfwlW_a99Jw)
 
-[David Foster Wallace, "This Is Water"](https://www.youtube.com/watch?v=DCbGM4mqEVw])
+David Foster Wallace, ["This Is Water"](https://www.youtube.com/watch?v=DCbGM4mqEVw])
 
 [Tessa Virtue and Scott Moir at Pyeongyang 2018](https://www.youtube.com/watch?v=wOEKdWrtz6U)
 
@@ -33,5 +34,5 @@ Talking Heads, ["Cities" Outtake](https://www.youtube.com/watch?v=jJMxwBmQWHA&li
 
 [LCD Soundsystem, "New York I Love You, But You're Bringing Me Down" and Miles Davis](https://www.youtube.com/watch?v=huEtJw7pfLk&t=1s)
 
-[Pharoah Sanders, "Kazuko" in an abandoned tunnel](https://www.youtube.com/watch?v=Y7EGQzn8e1k&list=RDY7EGQzn8e1k&start_radio=1)
+Pharoah Sanders, ["Kazuko" in an abandoned tunnel](https://www.youtube.com/watch?v=Y7EGQzn8e1k&list=RDY7EGQzn8e1k&start_radio=1)
 

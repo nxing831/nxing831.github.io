@@ -4,6 +4,8 @@ layout: blank.njk
 
 # analog music collection
 
+this page in **MAJOR PROGRESS** since i'm discovering it's actually a lot of work to categorize my music collection
+
 ## vinyl
 
 ### A

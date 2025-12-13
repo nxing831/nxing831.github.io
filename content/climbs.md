@@ -14,13 +14,18 @@ logging training (injuries), sends (recovery), and climbs i've set.
 
 started climbing in summer 2023, tore my tfcc spring 2025, off for rehab and mostly setting since.
 
+## dec 2025
+incredibly injured, shoulder impingement seems to be getting worse and worse but wrist is doing alright. 
+
+yoga is fun! lots to practice--trying to transition off assisted chin stand and flying splits, stabilize crow and side crow variations, get better at inversions generally. and of course basics could always improve...
+
 ## nov 2025
 
 ### climbing
 
 continuing to fight shoulder pain and wrist instability (tore tfcc in march 2025). off climbing and only doing yoga this month.
 
-pretty much never did yoga until this month but loving it + having lots of fun doing inversions. learned to do crow and side crow in like a week, which i'm proud of! obv have much to work on but can feel the benefits already. shoulder is super messed up though, can't do one-handed stuff with right arm usually. 
+pretty much never did yoga until this month but loving it + having lots of fun doing inversions. working on basic arm inversions. obv have much to work on but can feel the benefits already. shoulder is super messed up though, can't do one-handed stuff with right arm usually. 
 
 ### setting
 

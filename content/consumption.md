@@ -2,9 +2,21 @@
 layout: blank.njk
 ---
 
-# remembering things i consumed and got something from, somewhat exclusive from my other lists, starting in late october 2025
+# trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
 ### December 2025
+
+Tyshawn Sorey, Aaron Diehl, Harish Raghavan at Firehouse12 (live concert)
+
+Bela Fleck, Edgar Meyer, Zair Hussain NPR Tiny Desk
+
+Billy Strings NPR Tiny Desk
+
+Satyajit Ray, *Pather Panchali*
+
+David Campany Lecture, [USG Grant for Photography 2023](https://www.youtube.com/watch?v=DJ9IpIYljOQ)
+
+Matthew Rankin, *Universal Language*
 
 Wim Wenders, *Pina* (in 3D!)
 
