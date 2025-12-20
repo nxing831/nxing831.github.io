@@ -10,14 +10,17 @@ layout: blank.njk
 
 # climbing log
 
-logging training (injuries), sends (recovery), and climbs i've set.
+logging training (injuries), sends (recovery), and climbs i've set (for those unfamiliar, the job of putting climbs up, typically in commercial gyms)
 
 started climbing in summer 2023, tore my tfcc spring 2025, off for rehab and mostly setting since.
 
 ## dec 2025
 incredibly injured, shoulder impingement seems to be getting worse and worse but wrist is doing alright. 
 
-yoga is fun! lots to practice--trying to transition off assisted chin stand and flying splits, stabilize crow and side crow variations, get better at inversions generally. and of course basics could always improve...
+yoga is fun! lots to practice--trying to transition off assisted chin stand + stabilize crow and side crow variations, get better at inversions generally. and of course basics could always improve...
+
+12/15 -- i got my flying splits!!
+12/20 -- working on astavakrana (eight angle pose) and getting my butt kicked
 
 ## nov 2025
 

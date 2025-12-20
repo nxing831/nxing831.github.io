@@ -37,6 +37,6 @@ Mike Langley, ["I Am The New York Times' Paywall, and If I Let Any Non-subscribe
 
 Simon Rich, ["Mario, Not So Super at 40"](https://www.newyorker.com/magazine/2022/04/25/mario-not-so-super-at-forty)
 
-Rebecca Turkewitz, ["Other Things That Could Be Called The Tortured Poets Department"](https://www.mcsweeneys.net/articles/other-things-that-could-be-called-the-tortured-poets-department)
-
 Andrew Patrick Clark, ["We Are Not a 'School'--We Are a Hospital System With a Football Team"](https://www.mcsweeneys.net/articles/we-are-not-a-school-we-are-a-hospital-system-with-a-football-team)
+
+Chris Vandersall, ["Don't Let The Beasts From Revelation Distract You From Your Expense Reports"](https://www.mcsweeneys.net/articles/dont-let-the-beasts-from-revelation-distract-you-from-your-expense-reports)

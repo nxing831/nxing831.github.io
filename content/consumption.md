@@ -6,6 +6,8 @@ layout: blank.njk
 
 ### December 2025
 
+Billabong, ["In The Wind"](https://www.youtube.com/watch?v=Z7NIotJyhUw&list=RDZ7NIotJyhUw&start_radio=1)
+
 Tyshawn Sorey, Aaron Diehl, Harish Raghavan at Firehouse12 (live concert)
 
 Bela Fleck, Edgar Meyer, Zair Hussain NPR Tiny Desk
@@ -47,10 +49,6 @@ Orson Welles, *Touch of Evil* on 35mm (Restored Version)
 Ingmar Berman, *Persona* on 35mm
 
 Frederick Wiseman, *Aspen* on 16mm
-
-Lacan, *The Mirror Stage as Formative of the I Function*
-
-John Szarkowski, *Mirrors and Windows: American Photography Since 1960*
 
 Robert (Bud) Glick, *New York Chinatown*
 

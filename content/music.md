@@ -4,11 +4,15 @@ layout: blank.njk
 
 # music that occurred to me or was listened to that day, selectively listed in reverse chronological order since november 2025
 
-for a list of physical music i own, go [here](/analogmusic)
+<!-- for a list of physical music i own, go [here](/analogmusic)
 
----
+--- -->
 
 ### December 2025
+
+KIKO DINUCCI e BANDO AFROMACARRÔNICO, "padê onã"
+
+Tim Buckley, "Dolphins"
 
 Lynyrd Skynyrd, "I Need You"
 

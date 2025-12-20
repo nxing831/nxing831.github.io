@@ -28,3 +28,6 @@ layout: pins.njk
 
 ![](/pins/youtubers.png)
 
+---
+
+[return home](/index.md)

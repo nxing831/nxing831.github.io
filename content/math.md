@@ -2,15 +2,13 @@
 layout: blank.njk
 ---
 
-# academics, about, a bit
+# academics, a bit
 
 i am finishing my undergraduate degree in mathematics. currently, i am beginning my thesis in error correcting codes.
 
-previously, i did research in a variety of buildings in other places.
+previously, i did machine learning research with organizations of large size. if you ask nicely, i might even tell you where.
 
-i am taking a 2026 gap and intend to apply to phd programs in statistics and computer science after. roughly speaking, i am interested in ai security; this involves privacy, secure computing, adversarial machine learning, and alignment. 
-
-i also enjoy statistical learning theory, deep learning, etc. recently i have gone down a rabbithole on bayesian learning methods. i am also entertaining random processes and stochastic control.
+i am taking a 2026 gap and intend to apply to phd programs in statistics and computer science after. roughly speaking, i am interested in ai security, especially with applications from pozk, adversarial methods, and probabilistic machine learning. this is broad and i intend to narrow it down... eventually
 
 <img src='/pins/springer.jpg' height='400px'>
 
