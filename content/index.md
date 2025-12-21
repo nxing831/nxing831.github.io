@@ -6,7 +6,7 @@ layout: home.njk
 
 my name is nicole and i am a math student at yale university. 
 
-i am interested in ai security and privacy. 
+i am interested in ai security and privacy.
 
 i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very beige github page and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own. after being too embarrassed to ever share it, i renounced css and arrived here. 
 
@@ -32,9 +32,9 @@ i started my internet journey making html layouts for an online horse game befor
 
 [blog](/blog)
 
-[where am i](/now)
+[consumption diary](/consumption)
 
-[consumption diary](/consumption) 𓇼 [list of writing](/writing) 𓇼 [list of books](/bookshelf) 𓇼 [list of music](/music) 𓇼 [list of video](/video)
+lists of [books](/bookshelf), [music](/music), [essays](/writing), and [video](/video)
 
 [climbing log](/climbs)
 

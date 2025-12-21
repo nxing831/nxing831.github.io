@@ -2,11 +2,10 @@
 img {
     margin: auto;
     display: block;
-    width: 60%;
-    max-width: 700px;
+    max-width: 500px;
 }
 
 .container {
-  max-width: 800px;
+  max-width: 600px;
   margin:auto;
 }

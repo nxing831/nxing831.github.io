@@ -6,6 +6,8 @@ layout: blank.njk
 
 ### December 2025
 
+[Net Art Anthology](https://anthology.rhizome.org) Online Archive
+
 Billabong, ["In The Wind"](https://www.youtube.com/watch?v=Z7NIotJyhUw&list=RDZ7NIotJyhUw&start_radio=1)
 
 Tyshawn Sorey, Aaron Diehl, Harish Raghavan at Firehouse12 (live concert)
@@ -39,6 +41,8 @@ Satyajit Ray, *Nayak*
 ICP, *Hiroshima: Ground Zero 1945*
 
 Masahisa Fukase, *Ravens*
+
+Sohrab Hura, *The Coast*
 
 Brian Christian, *The Alignment Problem*
 

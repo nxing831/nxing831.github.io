@@ -14,8 +14,6 @@ Ash Sanders, ["Under the Weather"](https://www.thebeliever.net/climate-grief-anx
 
 David Foster Wallace, "Getting Away from Already Being Pretty Much Away from It All"
 
-Other Wallace essays from *A Supposedly Fun Thing I'll Never Do Again*
-
 Rich Sutton, ["The Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ### interview

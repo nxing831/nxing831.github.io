@@ -30,4 +30,4 @@ layout: pins.njk
 
 ---
 
-[return home](/index.md)
+[return home](/index)

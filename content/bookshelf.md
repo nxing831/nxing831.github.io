@@ -3,8 +3,6 @@ layout: bookshelf.njk
 ---
 # bookshelf
 
-for writing in non-book form (e.g., essay) go [here](/writing)
-
 i starting tracking books when i made a goodreads account in late 2023, but didn't use it all that much. everything pre-2024 is an estimation.
 
 books i strongly disliked have a ◞‸◟ so i don't get judged for reading them! textbooks are not listed.
