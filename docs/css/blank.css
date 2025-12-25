@@ -1,3 +1,4 @@
+
 .katex-mathml annotation {
   display: none;
 }
@@ -5,4 +6,18 @@
 .container {
   max-width: 600px;
   margin:auto;
+}
+
+body {
+  background-color: #EEEEEE;
+  color: #352f36;
+}
+
+a:link, a:visited {
+  color: #2b79c7;
+  line-height: 1.2; 
+}
+
+p {
+  line-height: 1.2; 
 }

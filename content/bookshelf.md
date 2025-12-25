@@ -16,7 +16,6 @@ nov 2025, *antkind*, charlie kaufman
 nov 2025, *extrastatecraft*, keller easterling
 
 ### a few want-to-reads
-john williams, *stoner*
 
 david szalay, *flesh*
 
@@ -34,7 +33,11 @@ dfw, *the girl with curious hair*
 
 
 ### 2025
-so far, i've read 16 books.
+so far, i've read 18 books.
+
+dec 2025, *stoner*, john williams
+
+dec 2025, *mother mary comes to me*, arundhati roy
 
 nov 2025, *bad feminist*, roxane gay
 

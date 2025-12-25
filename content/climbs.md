@@ -23,6 +23,8 @@ yoga is fun! lots to practice--trying to transition off assisted chin stand + ge
 
 12/20 -- working on astavakrana, unfortunately getting my butt kicked. lots of wrist tightness from tfcc
 
+12/24 -- probably overdid it on the arm balances. struggling with lots of wrist tightness and continued shoulder instability. PT for early january scheduled. 
+
 ## nov 2025
 
 ### climbing

@@ -9,3 +9,21 @@ img {
   max-width: 600px;
   margin:auto;
 }
+
+body {
+  background-color: #E1E2E3;
+}
+
+
+body {
+  background-color: #EEEEEE;
+  color: #352f36;
+}
+
+a:link, a:visited {
+  color: #2b79c7;
+}
+
+p {
+  line-height: 1.2; 
+}
