@@ -6,6 +6,8 @@ layout: blank.njk
 
 ### December 2025
 
+Jacques Tati, *Playtime*
+
 [Net Art Anthology](https://anthology.rhizome.org) Online Archive
 
 Billabong, ["In The Wind"](https://www.youtube.com/watch?v=Z7NIotJyhUw&list=RDZ7NIotJyhUw&start_radio=1)
@@ -30,8 +32,6 @@ Wim Wenders, *Pina* (in 3D!)
 
 Jacques Tati, *Monsieur Hulot's Holiday*
 
-Roxane Gay, *Bad Feminist*
-
 Robert Bresson, *L'Argent*
 
 Wim Wenders, *Beautiful Days*
@@ -43,8 +43,6 @@ ICP, *Hiroshima: Ground Zero 1945*
 Masahisa Fukase, *Ravens*
 
 Sohrab Hura, *The Coast*
-
-Brian Christian, *The Alignment Problem*
 
 David Campany Interviews Stephen Shore, *Ways of Making Pictures*
 

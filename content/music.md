@@ -10,6 +10,10 @@ layout: blank.njk
 
 ### December 2025
 
+Nusrat Fateh Ali Khan, "Mustt Mustt"
+
+Tim Buckley, "Once I Was"
+
 KIKO DINUCCI e BANDO AFROMACARRÔNICO, "padê onã"
 
 Tim Buckley, "Dolphins"
