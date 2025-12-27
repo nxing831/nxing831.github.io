@@ -5,7 +5,6 @@ layout: blank.njk
 # trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
 ### December 2025
-
 Jacques Tati, *Playtime*
 
 [Net Art Anthology](https://anthology.rhizome.org) Online Archive

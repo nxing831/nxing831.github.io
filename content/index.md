@@ -30,8 +30,6 @@ i started my internet journey making html layouts for an online horse game befor
 
 **personal**:
 
-[blog](/blog)
-
 [consumption diary](/consumption)
 
 lists of [books](/bookshelf), [music](/music), [essays](/writing), and [video](/video)
