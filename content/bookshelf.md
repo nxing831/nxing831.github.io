@@ -15,6 +15,8 @@ nov 2025, *antkind*, charlie kaufman
 
 nov 2025, *extrastatecraft*, keller easterling
 
+dec 2025, *the god of small things*, arundhati roy
+
 ### a few want-to-reads
 
 david szalay, *flesh*
@@ -31,9 +33,13 @@ boris groys, [*in the flow*](/https://citylights.com/art/in-the-flow/)
 
 dfw, *the girl with curious hair*
 
+### 2026
+
 
 ### 2025
-so far, i've read 18 books.
+in 2025, i read 19 books.
+
+dec 2025, *silence: lectures and writings*, john cage
 
 dec 2025, *stoner*, john williams
 

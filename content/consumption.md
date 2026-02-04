@@ -4,7 +4,17 @@ layout: blank.njk
 
 # trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
+### January 2026
+
+Vittorio De Sica, *The Garden of the Finzi-Continis* on 35mm
+
+Park Chan-Wook, *No Other Choice*
+
 ### December 2025
+Mathieu Kassovitz, *La Haine*
+
+Peter Davis, *Hearts and Minds*
+
 Jacques Tati, *Playtime*
 
 [Net Art Anthology](https://anthology.rhizome.org) Online Archive

@@ -8,6 +8,30 @@ layout: blank.njk
 
 --- -->
 
+### January 2026
+
+John Brown's Body, "Who Paid Them Off?"
+
+Wanting, "我的歌声里"
+
+Billy Strings, "My Alice"
+
+Jorge Ben Jor, "Ponta de Lanca Africano"
+
+The Outlaw Blues Band, "Deep Gully"
+
+Adrianne Lenker, "forwards beckon rebound"
+
+Keali'i Reichel, "Kawaipunahele"
+
+Paula Fuga, "Hōkūle'a Star of Gladness"
+
+Leonard Cohen, "Passing Through"
+
+Grateful Dead, "Ship of Fools"
+
+Ronghao Li, "戒烟"
+
 ### December 2025
 
 Nusrat Fateh Ali Khan, "Mustt Mustt"

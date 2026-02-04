@@ -14,16 +14,9 @@ Ash Sanders, ["Under the Weather"](https://www.thebeliever.net/climate-grief-anx
 
 David Foster Wallace, "Getting Away from Already Being Pretty Much Away from It All"
 
-Rich Sutton, ["The Bitter Lesson"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
 ### interview
 
 Ross Simonini interviews Pat Metheny, [*The Believer* (2022)](https://www.thebeliever.net/an-interview-with-pat-metheny/)
-
-[Jeff Wall interviewed by David Campany (2018)](https://davidcampany.com/jeff-wall-conversation-david-campany/)
-
-Roberta Smith with Irving Sandler, [*Brooklyn Rail* (2009)](https://brooklynrail.org/2009/04/art/in-conversation-roberta-smith-with-irving-sandler/)
-
 
 ### comedy
 
