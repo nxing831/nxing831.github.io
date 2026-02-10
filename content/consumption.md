@@ -4,6 +4,9 @@ layout: blank.njk
 
 # trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
+### February 2026
+Xie Fei, *Black Snow*
+
 ### January 2026
 
 Vittorio De Sica, *The Garden of the Finzi-Continis* on 35mm
