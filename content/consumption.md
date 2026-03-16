@@ -5,6 +5,15 @@ layout: blank.njk
 # trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
 ### February 2026
+
+Julian Lage, Jorge Roeder, Joey Baron at the VV! (live concert)
+
+Zhang Yimou, *Curse of the Golden Flower* on 35mm
+
+A conversation with Victor Wooten!
+
+Charlie Kaufman, *Synechdoche, New York* on 35mm (and in person!)
+
 Xie Fei, *Black Snow*
 
 ### January 2026
