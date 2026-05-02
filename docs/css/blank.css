@@ -22,9 +22,17 @@ p {
   line-height: 1.2; 
 }
 
+/* Normalize sup across browsers before applying footnote sizing */
+sup {
+  font-size: 1em;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
 /* Footnote reference superscripts inline */
 .footnote-ref {
-  font-size: 0.5em;
+  font-size: 0.65em;
   color: #888;
 }
 
