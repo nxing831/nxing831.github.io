@@ -21,3 +21,16 @@ a:link, a:visited {
 p {
   line-height: 1.2; 
 }
+
+/* Footnote reference superscripts inline */
+.footnote-ref {
+  font-size: 0.5em;
+  color: #888;
+}
+
+/* The footnotes section at the bottom */
+.footnotes {
+  font-size: 0.65em;
+  color: #777;
+}
+

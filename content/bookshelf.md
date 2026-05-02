@@ -13,13 +13,9 @@ oct 2025, *the sportswriter*, richard ford
 
 nov 2025, *antkind*, charlie kaufman
 
-nov 2025, *extrastatecraft*, keller easterling
-
 dec 2025, *the god of small things*, arundhati roy
 
 ### a few want-to-reads
-
-david szalay, *flesh*
 
 thoreau, *walden*
 
@@ -35,6 +31,11 @@ dfw, *the girl with curious hair*
 
 ### 2026
 
+so far, i've read 2 books.
+
+apr 2026, david szalay, *flesh*
+
+apr 2026, *trust*, hernan diaz ◞‸◟
 
 ### 2025
 in 2025, i read 19 books.

@@ -1,5 +1,6 @@
 const markdownIt = require('markdown-it');
 const markdownItKatex = require('@vscode/markdown-it-katex').default;
+const markdownItFootnote = require('markdown-it-footnote');
 const pluginTOC = require('eleventy-plugin-toc');
 const markdownItAnchor = require('markdown-it-anchor');
 const cheerio = require('cheerio');
@@ -13,7 +14,7 @@ module.exports = function (eleventyConfig) {
         html: true, // Allows HTML in Markdown
         linkify: true, // Automatically links URLs
         typographer: true, // Applies typographic replacements
-      }).use(markdownItKatex, {
+      }).use(markdownItFootnote).use(markdownItKatex, {
         macros: {
           "\\P" : "\\mathbb{P}",
           "\\E" : "\\mathbb{E}",
@@ -76,6 +77,14 @@ module.exports = function (eleventyConfig) {
 
     // Tell Eleventy to use the markdown-it instance
     eleventyConfig.setLibrary("md", md);
+
+    // Open external links in new tabs
+    eleventyConfig.addTransform("external-links", function(content, outputPath) {
+      if (!outputPath || !outputPath.endsWith(".html")) return content;
+      const $ = cheerio.load(content);
+      $('a[href^="http"]').attr('target', '_blank').attr('rel', 'noopener noreferrer');
+      return $.html();
+    });
 
     return {
       dir: {

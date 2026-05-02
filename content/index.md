@@ -4,25 +4,31 @@ layout: home.njk
 
 # home
 
-my name is nicole and i am a math student at yale university. 
+<img src="/images/profile.jpeg" style="float: right; width: 200px; margin-left: 1.5em; margin-bottom: 0.5em;">
 
-i am interested in statistical learning, algorithmic game theory, and digital privacy.
+my name is nicole and i did my undergraduate degrees (c'26) in mathematics and computer science at yale university, where i was kindly advised[^1] by professors [ben fisch](https://sites.google.com/site/benafisch/), [dan spielman](http://www.cs.yale.edu/homes/spielman), and [yang cai](http://www.cs.yale.edu/homes/cai).
 
-i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very beige github page and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own. after being too embarrassed to ever share it, i renounced css and arrived here. 
+i am interested in statistical learning, algorithmic game theory, and a world where technology is safe, helpful, and ethical.
+
+i am currently taking a gap year from 2026-2027; later, i hope to apply to phd programs and/or become a professional researcher.
+
+<div style="clear: both;"></div>
 
 ---
 
-**likes**: outdoor beach shower, oldweb disaster websites, acquiring backlogs of things
+i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very academic jekyll template and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own[^2]. after being too embarrassed to ever share it, i renounced the chains of css and arrived here. 
+
+**likes**: beach, oldweb disaster websites, taking naps
 
 **dislikes**: socks, overly developed senses of self, and other types of enclosures
 
-**doing and/or living**: rock climbing, fishing, web surfing, actual surfing, yoga, bass guitar, volunteering
+**doing**: rock climbing, fishing, web surfing, actual surfing, yoga, darkroom photo, bass guitar, community service
 
 ---
 
 **academic**:
 
-[a bit on math](/math) 
+<!-- [a bit on math](/math)  -->
 
 [notes](/technical_notes)
 
@@ -40,3 +46,6 @@ lists of [books](/bookshelf), [music](/music), [essays](/writing), and [video](/
 
 <!--  [future: photos] -->
 
+[^1]: professors fisch and spielman advised my math thesis, and professor cai advised cs.
+
+[^2]: before claude code, being very young and bad at web design actually had consequences. 

@@ -14,6 +14,8 @@ layout: pins.njk
 
 ![](/pins/mito.png)
 
+![](/pins/springer.jpg)
+
 ![](/pins/carson.png)
 
 ![](/pins/brownian.png)

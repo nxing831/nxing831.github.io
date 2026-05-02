@@ -12,7 +12,13 @@ layout: blank.njk
 
 logging training, sends, and climbs i've set (the job of putting climbs up, typically in commercial gyms)
 
-started climbing in summer 2023, tore my tfcc spring 2025, off for rehab and mostly setting since.
+started climbing in summer 2023, tore my tfcc spring 2025, tore my labrum fall 2025, off for rehab since... it's been rough. 
+
+## apr 2026
+
+got an mri--apparently shoulder was dislocated in oct 2025 and my labrum is torn in two places. back to rehab...
+
+off climbing, lifting, surfing, and yoga in exchange for running and loafing around.
 
 ## dec 2025
 incredibly injured, shoulder impingement seems to be getting worse and worse but wrist is doing alright. busy with finals and back home, so no setting
@@ -43,7 +49,7 @@ i think this should be fun for beginners learning new movements. proud of how it
 
 **"my first time upside down" v2:** start both hands on crimpy sidepull, flag foot to start. shuffle right hand to another side pull, switch feet, bump right to crimp, lh. high-ish left foot cross, lh to roof jug, rh to roof jug, straightforward finish. a shorter climb than i wanted, but didn't have great ideas for a low wall that was basically vert. 
 
-this was intended as a beginner climber's intro to steeper angles without doing a full roof climb. i honestly thought it was more of a v1, but some people struggled when i asked them to run it.
+this was intended as a beginner climber's intro to steeper angles without doing a full roof climb. i honestly thought it was more of a v1, but some kids struggled when i asked them to try it... what's the difference honestly
 
 ![upside down](/climbing/sets/fall25/upside_down.jpg)
 

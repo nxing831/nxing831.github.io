@@ -2,13 +2,32 @@
 layout: blank.njk
 ---
 
-# music that occurred to me or was listened to that day, selectively listed in reverse chronological order since november 2025
+# music that occurred to me or was listened to that month, selectively listed in reverse chronological order since november 2025
 
 <!-- for a list of physical music i own, go [here](/analogmusic)
 
 ----->
 
-### Feb 2026
+### April 2026
+
+Ka'ikena Scanlan, "Utu Bang Bang"
+
+Adrienne Lenker, "two reverse"
+
+Joni Mitchell, *The Hissing of Summer Lawns*
+
+Jack Johnson, *All The Light Above It Too*
+
+Paula Fuga, "If Ever"
+
+### March 2026
+Bill Frisell, "Isfahan"
+
+Julian Lage, *Speak to Me*
+
+Angine de Poitrine on KEXP
+
+### February 2026
 
 Django Reinhardt, "September Song"
 
