@@ -32,13 +32,14 @@ sup {
 
 /* Footnote reference superscripts inline */
 .footnote-ref {
-  font-size: 0.65em;
-  color: #888;
+  font-size: 0.5em;
+  color: #929191;
 }
 
 /* The footnotes section at the bottom */
 .footnotes {
   font-size: 0.8rem;
-  color: #777;
+  color: #929191;
+;
 }
 
