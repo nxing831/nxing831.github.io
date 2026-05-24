@@ -16,7 +16,7 @@ i am currently taking a gap year from 2026-2027; later, i hope to apply to phd p
 
 ---
 
-i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very academic jekyll template and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own[^2]. after being too embarrassed to ever share it, i renounced the chains of css and arrived here. 
+**about the webmaster**: i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very academic jekyll template and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own. after being too embarrassed to ever share it, i renounced the chains of css and arrived here. 
 
 **likes**: beach, oldweb disaster websites, taking naps
 
@@ -44,8 +44,8 @@ lists of [books](/bookshelf), [music](/music), [essays](/writing), and [video](/
 
 [pins](/pins)
 
+<!-- visit my friends, a webring! -->
+
 <!--  [future: photos] -->
 
 [^1]: professors fisch and spielman advised my math thesis, and professor cai advised cs.
-
-[^2]: before claude code, being very young and bad at web design actually had consequences. 

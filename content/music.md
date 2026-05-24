@@ -8,6 +8,20 @@ layout: blank.njk
 
 ----->
 
+### May 2026
+
+Shye Ben Tzur, Johnny Greenwood, The Rajasthan Express, *Ranjha*
+
+Angine de Poitrine, *Vol. II*
+
+Metallica, "The Call of Ktulu"
+
+The HU, "Black Thunder"
+
+Bob Marley & The Wailers, *Rastaman Vibration*
+
+Bob Marley & The Wailers, *Kaya*
+
 ### April 2026
 
 Ka'ikena Scanlan, "Utu Bang Bang"

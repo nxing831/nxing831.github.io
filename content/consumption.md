@@ -4,6 +4,22 @@ layout: blank.njk
 
 # trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
+### May 2026
+
+Jerome Sabbagh, Gilad Hekselman, Joe Martin, Nasheet Waits at Firehouse 12 (live concert)
+
+Yale 2026 MFA Photography Thesis Exhibition, *Picture Show*
+
+Apocalyptica and The HU (live concert)
+
+Tchaikovsky's *Eugene Onegin* at the Met Opera
+
+*Wicked* on Broadway
+
+Herbie Hancock, Chris Potter, James Genus, Lionel Loueke, Jaylen Petinaud (live concert)
+
+Ron Carter's 89th Birthday Performance with Donald Vega (live concert)
+
 ### April 2026
 
 Edward Yang, *Yi Yi*
