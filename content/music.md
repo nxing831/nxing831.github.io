@@ -8,6 +8,52 @@ layout: blank.njk
 
 ----->
 
+### Jul-Aug 2026
+
+Wayne Shorter, *Native Dancer*
+
+Michael Brecker, *Pilgrimage*
+
+Leonard Cohen, "Is This What You Wanted"
+
+Train Breaks Down, "Forty Hour Suit"
+
+Bob Dylan, "Ballad of a Thin Man"
+
+Ol' Dirty Bastard & Kelis, "Got Your Money"
+
+Souls of Mischief, "Postal"
+
+Mos Def & Busta Rhymes, "Do It Now"
+
+Jamie Cullum, "All At Sea"
+
+IDLES, "MTT 420 RR"
+
+Jason Becker, "Altitudes"
+
+### Jun 2026
+
+The Green, "Something About It"
+
+Funkadelic, "Biological Speculation"
+
+Black Country, New Road; "Basketball Shoes"
+
+PinkPantheress, "Girl Like Me"
+
+John Prine, "Summer's End"
+
+Wu-Tang Clan, "Bring Da Ruckus"
+
+Mos Def, "Hip Hop"
+
+Billy Strings, *Billy Strings*
+
+Tinariwen, "Toumast Tincha"
+
+Emahoy Tsege Mariam Gebru, *Spielt Eigen Kompositionen*
+
 ### May 2026
 
 Shye Ben Tzur, Johnny Greenwood, The Rajasthan Express, *Ranjha*
@@ -35,6 +81,7 @@ Jack Johnson, *All The Light Above It Too*
 Paula Fuga, "If Ever"
 
 ### March 2026
+
 Bill Frisell, "Isfahan"
 
 Julian Lage, *Speak to Me*
