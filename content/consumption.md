@@ -4,6 +4,16 @@ layout: blank.njk
 
 # trying to remember things consumed and enjoyed, somewhat exclusive from my other lists, starting in late october 2025
 
+### Sept 2026
+
+Hilary Hahn at the Chicago Symphony Orchestra
+
+### June 2026
+
+Elem Klimov, *Come and See* (genuinely the worst thing that has ever happened to me, and it didn't even happen to me)
+
+Ali Khamraev, *Man Follows Birds* on 35mm 
+
 ### May 2026
 
 Jerome Sabbagh, Gilad Hekselman, Joe Martin, Nasheet Waits at Firehouse 12 (live concert)
@@ -47,6 +57,8 @@ Xie Fei, *Black Snow*
 Vittorio De Sica, *The Garden of the Finzi-Continis* on 35mm
 
 Park Chan-Wook, *No Other Choice*
+
+Michelangelo Anonioni, *L'Avventura*
 
 ### December 2025
 Mathieu Kassovitz, *La Haine*

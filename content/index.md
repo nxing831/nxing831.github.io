@@ -6,29 +6,29 @@ layout: home.njk
 
 <img src="/images/profile.jpeg" style="float: right; width: 200px; margin-left: 1.5em; margin-bottom: 0.5em;">
 
-my name is nicole and i did my undergraduate degrees (c'26) in mathematics and computer science at yale university, where i was kindly advised[^1] by professors [ben fisch](https://sites.google.com/site/benafisch/), [dan spielman](http://www.cs.yale.edu/homes/spielman), and [yang cai](http://www.cs.yale.edu/homes/cai).
+hi, i'm nicole! i did my undergraduate degrees (c'26) in mathematics and computer science at yale university, where i was kindly advised by prof. [ben fisch](https://sites.google.com/site/benafisch/) and [hadas zeilberger](https://www.hadasze.me).
 
-i am interested in statistical learning, algorithmic game theory, and a world where technology is safe, helpful, and ethical.
+i am interested in security, crypt, and ai safety. 
 
-i am currently taking a gap year from 2026-2027; later, i hope to apply to phd programs and/or become a professional researcher.
+at the moment[^1], i am on a gap year! from oct 2026 to june 2027, i will be working in operations & research comms for [arcadia impact's alignment team](https://www.arcadiaimpact.org/alignment-research). 
 
 <div style="clear: both;"></div>
 
 ---
 
-**about the webmaster**: i started my internet journey making html layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram, i moved to a very academic jekyll template and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own. after being too embarrassed to ever share it, i renounced the chains of css and arrived here. 
+**about the webmaster**: i started my internet journey making html profile layouts for an online horse game before abandoning my web dev dreams. after a decade of instagram blah, i moved to a very academic github pages template and microblogged unsuccessfully before building a beautiful website that broke on any device other than my own. after being too embarrassed to ever share it, i renounced the chains of css and arrived here. 
 
 **likes**: beach, oldweb disaster websites, taking naps
 
 **dislikes**: socks, overly developed senses of self, and other types of enclosures
 
-**doing**: rock climbing, fishing, web surfing, actual surfing, yoga, darkroom photo, bass guitar, community service
+**doing**: fishing, web surfing, actual surfing, yoga, darkroom photo, bass guitar, rock climbing
 
 ---
 
 **academic**:
 
-<!-- [a bit on math](/math)  -->
+[updates](/math) 
 
 [notes](/technical_notes)
 
@@ -40,12 +40,11 @@ i am currently taking a gap year from 2026-2027; later, i hope to apply to phd p
 
 lists of [books](/bookshelf), [music](/music), [essays](/writing), and [video](/video)
 
-[climbing log](/climbs)
+<!-- [climbing log](/climbs) -->
 
 [pins](/pins)
 
-<!-- visit my friends, a webring! -->
+[visit my friends!](/friends)
 
 <!--  [future: photos] -->
-
-[^1]: professors fisch and spielman advised my math thesis, and professor cai advised cs.
+[^1]: *last updated sept 15 2026.*

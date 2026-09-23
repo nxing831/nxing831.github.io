@@ -11,15 +11,13 @@ books i strongly disliked have a ◞‸◟ so i don't get judged for reading the
 
 oct 2025, *the sportswriter*, richard ford
 
-nov 2025, *antkind*, charlie kaufman
-
 dec 2025, *the god of small things*, arundhati roy
+
+jul 2026, *the underground railroad,* colson whitehead
 
 ### a few want-to-reads
 
 thoreau, *walden*
-
-jeffrey eugenides, *middlesex*
 
 terry tempest williams, *refuge*
 
@@ -31,9 +29,19 @@ dfw, *the girl with curious hair*
 
 ### 2026
 
-so far, i've read 2 books.
+so far, i've read 7 books.
 
-apr 2026, david szalay, *flesh*
+aug 2026, *on the road*, jack kerouac ◞‸◟
+
+jul 2026, *tender is the night*, f scott fitzgerald
+
+jul 2026, *middlesex*, jeffrey eugenides
+
+jun 2026, *the brief wondrous life of oscar wao*, junot diaz
+
+jun 2026, *antkind*, charlie kaufman (this took me 8 months)
+
+apr 2026, *flesh*, david szalay
 
 apr 2026, *trust*, hernan diaz ◞‸◟
 
